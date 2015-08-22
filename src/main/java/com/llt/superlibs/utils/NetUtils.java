@@ -12,6 +12,7 @@ import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.support.v4.app.FragmentActivity;
 
+import com.llt.superlibs.R;
 import com.llt.superlibs.app.AppManager;
 import com.llt.superlibs.base.BaseActivity;
 import com.llt.superlibs.base.BaseFragmentActivity;

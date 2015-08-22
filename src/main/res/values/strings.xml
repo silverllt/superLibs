@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SuperLibs</string>
+
+    <string name="toastSetingNetwork">请手动设置网络</string>
 </resources>
