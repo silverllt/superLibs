@@ -35,4 +35,6 @@ public interface IBaseView {
 
     /** token失效 */
     void tokenInvalid();
+
+    void showTMessage(String tMessage);
 }
